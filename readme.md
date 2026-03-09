@@ -21,5 +21,5 @@ console.log("Resta:", res);
 ## Miembros del equipo
 
 * Omar Oswaldo Ramirez Arenas
-* Daniel Sebastian Maciaz 
+* Daniel Sebastian Macias 
 * Jose Andrez Navarro Ozuna
