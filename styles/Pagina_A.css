@@ -108,6 +108,7 @@ nav {
 
 .hero h1 {
     font-size: clamp(2.5rem, 8vw, 4.5rem);
+    color: #10b981;
     font-weight: 800;
     margin-bottom: 1.5rem;
     line-height: 1.1;
