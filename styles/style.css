@@ -1,7 +1,11 @@
 header {
-  color: red;
+  color: yellow;
 }
 
 p {
   color: blue;
+}
+
+table {
+  color: lightblue;
 }
